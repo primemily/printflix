@@ -3,3 +3,14 @@ color:black ;
 background-color:#FF69B4 ;
 
 }
+
+
+header{
+   border-bottom: solid 2px black;
+   margin: 20px;
+   font-size: 32px;
+   color: azure;
+
+
+
+}
